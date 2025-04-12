@@ -1,1 +1,1 @@
-# Azure-CI-CD-Machine-learning
+# Machine_Learning
